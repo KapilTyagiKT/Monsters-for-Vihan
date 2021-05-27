@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monsters-for-Vihan/static/css/main.bed9170a.chunk.css",
+    "main.js": "/Monsters-for-Vihan/static/js/main.90f9496a.chunk.js",
+    "main.js.map": "/Monsters-for-Vihan/static/js/main.90f9496a.chunk.js.map",
+    "runtime-main.js": "/Monsters-for-Vihan/static/js/runtime-main.423ef055.js",
+    "runtime-main.js.map": "/Monsters-for-Vihan/static/js/runtime-main.423ef055.js.map",
+    "static/js/2.a8bd4692.chunk.js": "/Monsters-for-Vihan/static/js/2.a8bd4692.chunk.js",
+    "static/js/2.a8bd4692.chunk.js.map": "/Monsters-for-Vihan/static/js/2.a8bd4692.chunk.js.map",
+    "static/js/3.040f9120.chunk.js": "/Monsters-for-Vihan/static/js/3.040f9120.chunk.js",
+    "static/js/3.040f9120.chunk.js.map": "/Monsters-for-Vihan/static/js/3.040f9120.chunk.js.map",
+    "index.html": "/Monsters-for-Vihan/index.html",
+    "static/css/main.bed9170a.chunk.css.map": "/Monsters-for-Vihan/static/css/main.bed9170a.chunk.css.map",
+    "static/js/2.a8bd4692.chunk.js.LICENSE.txt": "/Monsters-for-Vihan/static/js/2.a8bd4692.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.423ef055.js",
+    "static/js/2.a8bd4692.chunk.js",
+    "static/css/main.bed9170a.chunk.css",
+    "static/js/main.90f9496a.chunk.js"
+  ]
+}
